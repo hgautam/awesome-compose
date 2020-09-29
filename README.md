@@ -6,6 +6,10 @@
 
 These samples provide a starting point for how to integrate different services using a Compose file and to manage their deployment with Docker Compose.
 
+> **Note:**
+>
+> The following samples are intended for use in local development environments such as project setups, tinkering with software stacks, etc. These samples must not be deployed in production environments.
+
 <!--lint disable awesome-toc-->
 ## Contents
 
@@ -44,6 +48,7 @@ with Spring framework and a Postgres database.
 - [`PHP`](https://github.com/docker/awesome-compose/tree/master/apache-php)
 - [`Traefik`](https://github.com/docker/awesome-compose/tree/master/traefik-golang)
 - [`Django`](https://github.com/docker/awesome-compose/tree/master/django)
+- [`Minecraft server`](https://github.com/docker/awesome-compose/tree/master/minecraft)
 ## Basic setups for different platforms (not production ready - useful for personal use) 
 - [`Gitea / PostgreSQL`](https://github.com/docker/awesome-compose/tree/master/gitea-postgres)
 - [`Nextcloud / PostgreSQL`](https://github.com/docker/awesome-compose/tree/master/nextcloud-postgres)
